@@ -30,7 +30,7 @@ Table of Content:
 /*----------------------------------------------------*/
 /*font Variables*/
 /*Color Variables*/
-@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Raleway:100,200,300,400,500,600,700,800,900|Yellowtail");
+@import url("https://fonts.googleapis.com/css?family=Bree+Serif|Raleway:100,200,300,400,500,600,700,800,900|Raleway");
 .col-md-offset-right-1 {
   margin-right: 8.33333333%;
 }
@@ -474,7 +474,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
   border-radius: 20px;
   color: #222222;
   font-size: 18px;
-  font-family: "Yellowtail", cursive;
+  font-family: "Raleway";
   position: relative;
   overflow: hidden;
 }
